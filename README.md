@@ -1,2 +1,2 @@
-# JavaScript Scientific-Calculator
+# Scientific Calculator
  
